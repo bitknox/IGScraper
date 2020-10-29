@@ -1,2 +1,2 @@
 # IGScraper
-Creates file with links to all images for a given instagram profile
+Returns an array of image url's to all the images on a given profile
